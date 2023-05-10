@@ -94,3 +94,37 @@ body{
 .main_btns{
   transform: translate(35%, -100%) rotate(-90deg);
 }
+.bg{
+	background: #F6F6F6;
+}
+.title{
+	font-size: 34px;
+	line-height: 42px;
+	font-weight: 700;
+	text-align: center;
+}
+/* about */
+.about{
+	padding: 120px 0 107px;
+	text-align: center;
+}
+.about .title{
+	margin-bottom: 18px;
+}
+.about_txt{
+	font-size: 18px;
+	line-height: 22px;
+	margin: 0 auto 40px;
+}
+.about_txt:last-child{
+	margin-bottom: 0;
+}
+.about_txt__1{
+	max-width: 511px;
+}
+.about_txt__2{
+	max-width: 415px;
+}
+.about_txt__3{
+	max-width: 333px;
+}
